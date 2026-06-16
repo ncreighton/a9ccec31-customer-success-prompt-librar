@@ -1,2 +1,25 @@
-# a9ccec31-customer-success-prompt-librar
-Stop wasting hours crafting the same AI prompts for every customer query. The Customer Success Prompt Library gives you battle-tested templates that turn your AI tools into a 24/7 success engine.  This library solves the inconsistency and time drain of writing prompts from scratch. It's the best solution because it's curated from real customer succ
+# Customer Success Prompt Library for AI Tools
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard layout | Yes | Yes |
+| Premium components | - | Yes |
+| Custom styling | - | Yes |
+| Support included | - | Yes |
+| Regular updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/fZu9AT26H0bWcVW5bucZo0d)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/fZu9AT26H0bWcVW5bucZo0d)
+
